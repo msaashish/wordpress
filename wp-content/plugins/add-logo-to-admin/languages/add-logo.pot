@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: add-logo-to-admin/add-logo-to-admin.php:1
+#: add-logo-to-admin/add-logo-to-admin.php:137
+msgid "Add Logo to Admin"
+msgstr ""
+
+#. Text in echo
+#: add-logo-to-admin/add-logo-to-admin.php:162
+msgid "Delete image"
+msgstr ""
+
+#. Text in echo
+#: add-logo-to-admin/add-logo-to-admin.php:153
+msgid "Display logo on all admin pages"
+msgstr ""
+
+#. Text in echo
+#: add-logo-to-admin/add-logo-to-admin.php:149
+msgid "Display logo on the login page"
+msgstr ""
+
+#. Text in echo
+#: add-logo-to-admin/add-logo-to-admin.php:144
+msgid "Logo Options"
+msgstr ""
+
+#. Text in echo
+#: add-logo-to-admin/add-logo-to-admin.php:162
+msgid "Select image"
+msgstr ""
+
+#. Text in echo
+#: add-logo-to-admin/add-logo-to-admin.php:158
+msgid "Upload Logo"
+msgstr ""
+
+#. Text in function
+#: add-logo-to-admin/add-logo-to-admin.php:117
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#. Text in echo
+#: add-logo-to-admin/add-logo-to-admin.php:164
+msgid "Your logo should be no larger than 320px by 80px or else it will be resized on the login screen."
+msgstr ""
